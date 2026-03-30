@@ -44,15 +44,3 @@ Follow these steps to set up the project locally:
 ### Additional Notes
 - Ensure you have Node.js and npm installed on your machine.
 
-## Contributing
-We welcome contributions to improve PawFinds! To contribute, follow these steps:
-- Fork the repository.
-- Create a new branch: git checkout -b feature-new-feature
-- Make your changes and commit them: git commit -m 'Add new feature'
-- Push to the branch: git push origin feature-new-feature
-- Create a pull request explaining your changes.
-
-## Contact Information
-For questions, please contact 
-- [GitHub](https://github.com/kashiekzmi)
-- [LinkedIn](https://www.linkedin.com/in/kashiekzmi)
